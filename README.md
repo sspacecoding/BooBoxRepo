@@ -12,5 +12,5 @@ Assista seu amigo interagindo com as mensagens que aparecem aleatoriamente!
 Informação Importante: Este script é apenas para fins de diversão e é completamente inofensivo. Não faz nenhuma alteração no sistema, não contém malware, e não coleta ou transmite nenhum dado.
 Sempre revele a brincadeira após sua execução.
 
-## 👻 Contribuições
+## 🖖 Contribuições
 Sinta-se à vontade para contribuir com mais mensagens assustadoras ou qualquer outra funcionalidade divertida!
